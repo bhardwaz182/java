@@ -61,5 +61,10 @@ public class Operators {
             System.out.println(a);  
             System.out.println(a<b&a++<c);   
             System.out.println(a);
+            a=12;
+            b=12;
+            System.out.print(a>b);
+            // a>b for true a should be greater than b else false
+            // a>=b for true a should be greater than b or equal to b else false for all cases 
     }
 }
