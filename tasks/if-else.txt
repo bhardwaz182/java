@@ -14,3 +14,12 @@ A single line containing a positive integer, .
 Output Format
 
 Print Weird if the number is weird; otherwise, print Not Weird.
+
+
+for loop:
+
+find sum of n natural numbers
+
+find factorial of a given number
+
+4 -> 24(4*3*2*1)
