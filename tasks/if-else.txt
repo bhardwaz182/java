@@ -23,3 +23,11 @@ find sum of n natural numbers
 find factorial of a given number
 
 4 -> 24(4*3*2*1)
+
+
+Arrays:
+
+count the occurance of an element in Array
+Java Program to print the elements of an array present on even position
+Java Program to print the elements of an array in reverse order
+Java Program to print the largest element in an array
