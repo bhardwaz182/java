@@ -6,6 +6,7 @@ public class Operators {
             int pre = ++temp; // temp = 6 -> pre = 6
             System.out.println("temp "+temp+" post:"+post+" pre: "+pre+" -temp:"+(-temp));
             
+            // 10/3 gives integer(3) as output while 10.5/3 gives float(3.5) as output
             int a=5,b=3;
             System.out.println(b%a);
             // 2 -(8421) 0010 -> 1000
