@@ -27,6 +27,8 @@ find factorial of a given number
 
 Arrays:
 
+[1,2,3,4,5,6]
+
 count the occurance of an element in Array
 Java Program to print the elements of an array present on even position
 Java Program to print the elements of an array in reverse order
