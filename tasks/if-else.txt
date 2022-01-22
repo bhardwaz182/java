@@ -33,3 +33,10 @@ count the occurance of an element in Array
 Java Program to print the elements of an array present on even position
 Java Program to print the elements of an array in reverse order
 Java Program to print the largest element in an array
+
+
+Class:
+
+Define a class Rectangle with instance variables length and breadth
+define methods to set length and breadth and to get length and breadth
+define a method area that prints area of reactangle length*breadth
