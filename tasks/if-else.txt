@@ -40,3 +40,11 @@ Class:
 Define a class Rectangle with instance variables length and breadth
 define methods to set length and breadth and to get length and breadth
 define a method area that prints area of reactangle length*breadth
+
+
+
+Define a class Shape with lenght and breadth as instance variables 
+define methods to set lenght and breadth and to get length and breadth 
+define a method area in shape class 
+define another class reactangle and square inherit from the shape and override area method 
+which should return area of the shape 
